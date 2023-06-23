@@ -2,4 +2,4 @@ Fully functional CRUD app with local storage.
 
 Live demo: https://vargriym.github.io/vanilla-js-CRUD-app-with-local-storage/
 
-![Screenshot from 2023-02-18 19-55-43](https://user-images.githubusercontent.com/102037554/220266934-91baf4d7-363e-4957-916b-96502a7f6e40.png)
+![Screenshot from 2023-06-23 08-14-40](https://github.com/Vargriym/vanilla-js-CRUD-app-with-local-storage/assets/102037554/9320d359-86c1-4b3a-b45d-7cd47a2e31ad)
