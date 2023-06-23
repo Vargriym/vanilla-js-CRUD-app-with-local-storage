@@ -24,11 +24,10 @@ input {
     height: 30px;
     outline: none;
     border: none;
-    background: #1F8A70;
     margin: 10px 0;
     border-radius: 6px;
     padding: 6px;
-    color: #fff;
+    color: #000;
 }
 
 input:focus {
