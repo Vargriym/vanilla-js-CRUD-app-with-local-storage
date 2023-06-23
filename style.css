@@ -30,10 +30,6 @@ input {
     color: #000;
 }
 
-input:focus {
-    background: #156853;
-    
-}
 
 .price input {
     width: 20%;
